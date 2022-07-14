@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 **/.tflogs
 **/*.h5
+
+chapter_13/fashion_mnist_dataset
+chapter_13/large_movie_review_dataset
