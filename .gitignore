@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 **/.tflogs
 **/*.h5
+**/*.tf
 **/\~
 
 chapter_13/fashion_mnist_dataset
