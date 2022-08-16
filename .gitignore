@@ -8,3 +8,6 @@
 chapter_13/fashion_mnist_dataset
 chapter_13/large_movie_review_dataset
 chapter_15/jsb_chorales
+chapter_16/ted_hrlr_translate_pt_en_converter*
+chapter_16/checkpoints
+chapter_16/translator
